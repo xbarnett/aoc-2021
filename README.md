@@ -1,0 +1,1 @@
+Haskell solutions to most of the 2021 Advent of Code problems.
